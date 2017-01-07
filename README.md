@@ -1,6 +1,6 @@
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> 生成对抗网络做QA任务，基于insurance数据集
+> baseline 基准是CNN 计算出来做cos  对比的benchmark是动态负采样
 > 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+> 
+> thanks list：
+> requests ： Tensorflow
